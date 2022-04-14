@@ -6,6 +6,11 @@ Gathered interested articles reagarding IT
 * https://monkeywritescode.blogspot.com/p/c-exceptions-under-hood.html -> description how exception works
 
 ## Linux
-* https://opensource.com/article/19/4/interprocess-communication-linux-storage -> IPC part 1
-* https://opensource.com/article/19/4/interprocess-communication-linux-channels -> IPC part 2
-* https://opensource.com/article/19/4/interprocess-communication-linux-networking -> IPC part 3
+### IPC
+* https://opensource.com/article/19/4/interprocess-communication-linux-storage -> part 1
+* https://opensource.com/article/19/4/interprocess-communication-linux-channels -> part 2
+* https://opensource.com/article/19/4/interprocess-communication-linux-networking -> part 3
+
+### select vs poll vs epoll
+* https://hechao.li/2022/01/04/select-vs-poll-vs-epoll/
+* https://devarea.com/linux-io-multiplexing-select-vs-poll-vs-epoll/#.YlgGPbkwirx
