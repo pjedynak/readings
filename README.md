@@ -14,3 +14,6 @@ Gathered interested articles reagarding IT
 ### select vs poll vs epoll
 * https://hechao.li/2022/01/04/select-vs-poll-vs-epoll/
 * https://devarea.com/linux-io-multiplexing-select-vs-poll-vs-epoll/#.YlgGPbkwirx
+
+### KVM
+* [PL] https://morfikov.github.io/post/wirtualizacja-qemu-kvm-libvirt-na-debian-linux/
