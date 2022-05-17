@@ -5,7 +5,7 @@ Gathered interested articles reagarding IT
 * https://github.com/AnthonyCalandra/modern-cpp-features -> brief of new c++ features
 * https://monkeywritescode.blogspot.com/p/c-exceptions-under-hood.html -> description how exception works
 * https://preshing.com and https://preshing.com/20120625/memory-ordering-at-compile-time/ -> memory ordering
-* https://preshing.com/20150316/semaphores-are-surprisingly-versatile/ -> [light] semaphore
+* https://preshing.com/20150316/semaphores-are-surprisingly-versatile/ -> [light mutexes etc] versatility of semaphore
 
 ## Linux
 ### IPC
