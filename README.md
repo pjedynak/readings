@@ -6,6 +6,7 @@ Gathered interested articles reagarding IT
 * https://monkeywritescode.blogspot.com/p/c-exceptions-under-hood.html -> description how exception works
 * https://preshing.com and https://preshing.com/20120625/memory-ordering-at-compile-time/ -> memory ordering
 * https://preshing.com/20150316/semaphores-are-surprisingly-versatile/ -> [light mutexes etc] versatility of semaphore
+* https://www.agner.org/optimize/#testp -> software optimization
 
 ## Linux
 ### IPC
