@@ -7,6 +7,7 @@ Gathered interested articles reagarding IT
 * https://preshing.com and https://preshing.com/20120625/memory-ordering-at-compile-time/ -> memory ordering
 * https://preshing.com/20150316/semaphores-are-surprisingly-versatile/ -> [light mutexes etc] versatility of semaphore
 * https://www.agner.org/optimize/#testp -> software optimization
+* https://www.modernescpp.com/index.php/c-core-guidelines-be-aware-of-the-traps-of-condition-variables -> traps of conditional variables
 
 ## Linux
 ### IPC
