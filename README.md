@@ -21,3 +21,6 @@ Gathered interested articles reagarding IT
 
 ### KVM
 * [PL] https://morfikov.github.io/post/wirtualizacja-qemu-kvm-libvirt-na-debian-linux/
+
+## Security
+* https://portswigger.net/web-security -> security academy
