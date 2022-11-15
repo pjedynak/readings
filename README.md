@@ -24,3 +24,6 @@ Gathered interested articles reagarding IT
 
 ## Security
 * https://portswigger.net/web-security -> security academy
+
+## Keychrone
+* https://github.com/kurgol/keychron -> keychrone linux settings
