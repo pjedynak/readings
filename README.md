@@ -8,6 +8,7 @@ Gathered interested articles reagarding IT
 * https://preshing.com/20150316/semaphores-are-surprisingly-versatile/ -> [light mutexes etc] versatility of semaphore
 * https://www.agner.org/optimize/#testp -> software optimization
 * https://www.modernescpp.com/index.php/c-core-guidelines-be-aware-of-the-traps-of-condition-variables -> traps of conditional variables
+* https://herbsutter.com/2013/06/05/gotw-91-solution-smart-pointer-parameters/ -> passing smart pointers as function argument
 
 ## Linux
 ### IPC
