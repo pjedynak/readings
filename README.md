@@ -1,7 +1,8 @@
 # readings
 Gathered interested articles reagarding IT
 
-## C/C++
+## Programming languages
+### C/C++
 * https://github.com/AnthonyCalandra/modern-cpp-features -> brief of new c++ features
 * https://monkeywritescode.blogspot.com/p/c-exceptions-under-hood.html -> description how exception works
 * https://preshing.com and https://preshing.com/20120625/memory-ordering-at-compile-time/ -> memory ordering
@@ -9,6 +10,9 @@ Gathered interested articles reagarding IT
 * https://www.agner.org/optimize/#testp -> software optimization
 * https://www.modernescpp.com/index.php/c-core-guidelines-be-aware-of-the-traps-of-condition-variables -> traps of conditional variables
 * https://herbsutter.com/2013/06/05/gotw-91-solution-smart-pointer-parameters/ -> passing smart pointers as function argument
+
+### JavaScript
+* https://medium.com/swlh/order-of-execution-of-javascript-promises-with-examples-f2e8f81138b7 -> promises and async/await
 
 ## Linux
 ### IPC
